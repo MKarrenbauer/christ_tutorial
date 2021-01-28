@@ -1,0 +1,227 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.2.15)  15 DEC 2020 22:13
+entering extended mode
+**"I:/report adv ml/report/report.tex"
+("I:/report adv ml/report/report.tex"
+LaTeX2e <2020-02-02> patch level 1
+L3 programming layer <2020-02-08>
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/acmart\acmart.cls
+"
+Document Class: acmart 2020/11/15 v1.75 Typesetting articles for the Associatio
+n for Computing Machinery
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.s
+ty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval
+.tex"
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutil
+s.tex"
+\XKV@toks=\toks14
+\XKV@tempa@toks=\toks15
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyval.
+tex"))
+\XKV@depth=\count167
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xstring\xstring.s
+ty"
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xstring\xstring
+.tex"
+\integerpart=\count168
+\decimalpart=\count169
+)
+Package: xstring 2019/02/06 v1.83 String manipulations (CT)
+)
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+Package acmart Info: Not using screen mode on input line 73.
+Package acmart Info: Using breaking urls on hyphens on input line 81.
+Package acmart Info: Requiring acmthm on input line 89.
+Package acmart Info: Not using review mode on input line 98.
+Package acmart Info: Not using authorversion mode on input line 106.
+Package acmart Info: Not using nonacm mode on input line 118.
+Package acmart Info: Explicitly selecting natbib mode on input line 130.
+Package acmart Info: Not using anonymous mode on input line 138.
+Package acmart Info: Not using timestamp mode on input line 146.
+Package acmart Info: Not using authordraft mode on input line 156.
+Class acmart Info: Using format sigconf, number 4 on input line 165.
+Class acmart Info: Using fontsize 9pt on input line 249.
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsart.cls
+"
+Document Class: amsart 2017/10/31 v2.20.4
+\linespacing=\dimen134
+\normalparindent=\dimen135
+\normaltopskip=\skip47
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.s
+ty"
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.s
+ty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.st
+y"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen136
+))
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.st
+y"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen137
+)
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.st
+y"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count170
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count171
+\leftroot@=\count172
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count173
+\DOTSCASE@=\count174
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen138
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count175
+\c@MaxMatrixCols=\count176
+\dotsspace@=\muskip16
+\c@parentequation=\count177
+\dspbrk@lvl=\count178
+\tag@help=\toks17
+\row@=\count179
+\column@=\count180
+\maxfields@=\count181
+\andhelp@=\toks18
+\eqnshift@=\dimen139
+\alignsep@=\dimen140
+\tagshift@=\dimen141
+\tagwidth@=\dimen142
+\totwidth@=\dimen143
+\lineht@=\dimen144
+\@envbody=\toks19
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 398
+.
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts
+.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert199
+\abstractbox=\box47
+\listisep=\skip51
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip52
+\belowcaptionskip=\skip53
+\captionindent=\dimen145
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks26
+)
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microty
+pe.sty"
+Package: microtype 2020/12/07 v2.8 Micro-typographical refinements (RS)
+\MT@toks=\toks27
+\MT@count=\count190
+LaTeX Info: Redefining \textls on input line 788.
+\MT@outer@kern=\dimen146
+LaTeX Info: Redefining \textmicrotypecontext on input line 1358.
+\MT@listname@count=\count191
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microty
+pe-pdftex.def"
+File: microtype-pdftex.def 2020/12/07 v2.8 Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip57
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microty
+pe.cfg"
+File: microtype.cfg 2020/12/07 v2.8 microtype main configuration file (RS)
+))
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox
+.sty"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+)
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/booktabs\booktabs
+.sty"
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen147
+\lightrulewidth=\dimen148
+\cmidrulewidth=\dimen149
+\belowrulesep=\dimen150
+\belowbottomsep=\dimen151
+\aboverulesep=\dimen152
+\abovetopsep=\dimen153
+\cmidrulesep=\dimen154
+\cmidrulekern=\dimen155
+\defaultaddspace=\dimen156
+\@cmidla=\count193
+\@cmidlb=\count194
+\@aboverulesep=\dimen157
+\@belowrulesep=\dimen158
+\@thisruleclass=\count195
+\@lastruleclass=\count196
+\@thisrulewidth=\dimen159
+)
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount
+.sty"
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds
+.sty"
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwa
+rerr.sty"
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+))
+("C:\Users\Markus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/totpages\totpages
+.sty"
+Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
